@@ -14,7 +14,7 @@ a. Users fields are
 4) password
 
 
-b. Posts fields are 
+b. posts fields are 
 
 1) id
 2) title
@@ -22,7 +22,7 @@ b. Posts fields are
 4) category
 
 
-c. Comments fields are 
+c. pomments fields are 
 
 1) id
 2) name
